@@ -1,0 +1,24 @@
+control_panel
+=============
+Email address: peter "at" onemanincubator.com
+
+Description
+===========
+This plugin provides an admin control panel for handling adminish
+type stuff. It integrates with my plugin crud. Right now I'm using
+it only for CRUDing database records from an admin point of view.
+
+Go Away
+=======
+Just kidding. But not really. Point is, this code sucks. Breaks pretty 
+much every unwritten rule of proper Rails coding. I won't bore you 
+with the details.
+
+Don't bother looking in the code. As I said, it sucks.
+
+So why post it on github? Because I couldn't figure out how to manage
+this code using git with the shared codebase sitting on my local 
+machine while still using capistrano to deploy. github is a no-brainer.
+
+Someday, when this plugin code becomes beautiful, I'll write up a
+proper README. But for now, just move along. :)
